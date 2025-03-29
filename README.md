@@ -1,7 +1,7 @@
 <h1 align="center">🚀 Hey there, I'm Brahimi oussama! 👋</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="200" />
+ <img src="https://media.giphy.com/media/jpbnoe3UIa8TU8LM13/giphy.gif" width="250" />
 </p>
 
 ##  How Did I End Up Here?  🤷‍♂️
@@ -19,17 +19,17 @@ I didn’t choose coding. Coding chose me… and I’m still trying to escape. �
 
 ---
 
-## 🐧 Why Linux?  
+##  Linux user 🐧
 Because why use Windows when you can **suffer elegantly**? 😆  
 
 ---
 
-## 📬 Let's Connect!
+## 📬 Let’s Connect (Before I Disappear!)  
 <p align="center">
-  <a href="https://craftocad.tech"><img src="https://img.shields.io/badge/🌍 Website-craftocad.tech-blue?style=for-the-badge" /></a>
-  <a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/GitHub-My Code-black?style=for-the-badge&logo=github" /></a>
+  <a href="https://github.com/oussasz"><img src="https://img.shields.io/badge/GitHub-My Code-black?style=for-the-badge&logo=github" /></a>
+  <a href="https://x.com/Oussasz"><img src="https://img.shields.io/badge/Twitter-@Oussasz-1DA1F2?style=for-the-badge&logo=twitter" /></a>
+  <a href="https://www.linkedin.com/in/oussasz/"><img src="https://img.shields.io/badge/LinkedIn-@Oussasz-0077B5?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://facebook.com/Oussasz"><img src="https://img.shields.io/badge/Facebook-@Oussasz-1877F2?style=for-the-badge&logo=facebook" /></a>
 </p>
 
----
 
-🔥 **Fun Fact:** My code works… until I run it. Then, reality hits. 😆  

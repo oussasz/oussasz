@@ -1,5 +1,5 @@
 <h1 align="center">🚀 Hey there, I'm Brahimi Oussama! 👋</h1>
-<p align="center">An Industrial Maintenance Engineer turned accidental coder, passionate about innovation and turning ideas into reality.</p>
+<p align="center">An Industrial Maintenance Engineer who accidentally tripped into coding — now trying to turn wild ideas into reality (mostly without breaking things... Inchaalah). 😆</p>
 <p align="center">
   <img src="https://media.giphy.com/media/lzZBZB6PCfzhV4B3Xq/giphy.gif?cid=ecf05e47i1m5w0h902vb0tsrc4ebathszsmez2dwzbbrxpa9&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="250" />
 </p>
@@ -7,13 +7,13 @@
 ---
 
 ## 🌟 My Journey to Code
-I’m not a programmer by trade, but I’ve learned to wield code as a tool to bring my ideas to life. As an Industrial Maintenance Engineer, I’m wired to solve problems and innovate—sometimes that means diving into code with curiosity, grit, and a little AI magic. Coding didn’t choose me; I chose to tame it.
+I’m not a programmer by trade, but I’ve learned to wield code as a tool to bring my ideas to life. As an Industrial Maintenance Engineer, I’m wired to solve problems and innovate—sometimes that means diving into code with curiosity, grit, and a little AI magic. Coding didn’t choose me; I chose to mess it up..
 
 ---
 
 ## 🛠️ About Me
 - **Industrial Maintenance Engineer** 🔧 – Skilled at optimizing systems and keeping everything running like clockwork.
-- **Curious Innovator** 💡 – Constantly experimenting with wild ideas, from startups to side projects.
+- **Curious Innovator** 💡 – Constantly experimenting with wild ideas
 - **Accidental Coder** 💻 – Writing just enough code to get the job done, fueled by determination and modern tools.
 - **Entrepreneurial Spirit** 🚀 – Always exploring new ventures and dreaming up the next big thing.
 - **Open to Collaborations** 🤝 – I’ve got some exciting unfinished projects in private repos—let’s build something extraordinary together!
@@ -22,11 +22,8 @@ I’m not a programmer by trade, but I’ve learned to wield code as a tool to b
 
 ## 🚧 Current Projects
 ### MaintaFOX - GMAO
-
 a web-based self hosted application designed as a CMMS aims to provide industrial maintenance prosses. The goal is to improve operational efficiency, reduce equipment downtime, and optimize maintenance workflows.
-
 **Technology Stack:**
-
 *   **Backend:** Node.js, Express.js
 *   **Frontend:** HTML, CSS, JavaScript, D3.js
 *   **Database:** MySQL

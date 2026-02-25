@@ -5,8 +5,3 @@
 </p>
 
 I bridge the gap between **Physical Machinery** and **Digital Intelligence**. My engineering background means I don't just write "pretty" code; I write code that survives the real world.
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oussasz&layout=compact&theme=radical" width="45%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=oussasz&theme=radical" width="45%" />
-</p>
